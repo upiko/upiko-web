@@ -6,6 +6,10 @@ body{
   color: #505962;
 }
 
+.logo-text {
+  font-size: 1.8rem;
+}
+
 .offset:before {
   display:block;
   content: "";
@@ -25,7 +29,7 @@ body{
 }
 
 .home-inner{
-  background-image: url(img/computers.png);
+  background-image: url(img/jumping.jpg);
 }
 
 .caption{
@@ -42,7 +46,7 @@ body{
   font-weight: 700;
   letter-spacing: .3rem;
   text-shadow: .1rem .1rem .8rem black;
-  padding-bottom: 1 rem;
+  padding-bottom: 1rem;
 }
 
 .caption h3 {
@@ -102,14 +106,15 @@ h3.heading {
   margin: 0 auto 2rem;
 }
 
-.products svg.svg-inline--fa {
+
+.product svg.svg-inline--fa {
   color: #3fb1b7;
 }
-.products h3 {
-  font-size: 1.3rem;
+.product h3 {
+  font-size: 1.7rem;
   padding-bottom: .4rem;
 }
-.products p {
+.product p {
   font-size: 1.1rem;
 }
 
@@ -143,6 +148,35 @@ hr.socket {
   border-top:.2rem solid #666b71;
   margin-top: 3rem;
 }
+
+.strong-p{
+  font-weight: bold;
+}
+
+@media (max-width: 767px){
+
+  .caption h1 {
+    font-size: 2.3rem;
+    letter-spacing: .15rem;
+    padding-bottom: .5rem;
+  }
+  
+  .caption h3 {
+    font-size: 1.2rem;
+    padding-bottom: 1.2rem;
+  }
+  
+  .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1rem;
+  }
+
+  .narrow h1{
+    font-size: 1.5rem;
+  }
+}
+
+
 
 /*============ BOOTSTRAP BREAK POINTS:
 

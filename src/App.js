@@ -7,7 +7,7 @@ function App() {
     <React.Fragment>
       <div id="home">
         <nav className="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-          <a className="navbar-brand" href="/"><p class="logo-text"><Icon style={{ fontSize: '1.5rem', paddingRight: '.25rem'}} type="property-safety" theme="twoTone" twoToneColor="#3fb1b7"/>upiko</p></a>
+          <a className="navbar-brand" href="/"><p class="logo-text">upiko</p></a>
         </nav>
         <div className="landing">
           <div className="home-wrap">

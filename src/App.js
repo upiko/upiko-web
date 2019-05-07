@@ -87,9 +87,7 @@ function App() {
                   <p> the future of decentralized web products
                   </p>
                   <a href="http://github.com/upiko/" target="_blank"><i class="fab fa-github"></i></a>
-                  <a href="/" target="_blank"><i class="fab fa-facebook-square"></i></a>
                   <a href="/" target="_blank"><i class="fab fa-twitter-square"></i></a>
-                  <a href="/" target="_blank"><i class="fab fa-instagram"></i></a>
                 </div>
 
                 <hr className="socket"/>&copy; upiko.com

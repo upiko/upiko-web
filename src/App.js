@@ -1,5 +1,4 @@
 import React from 'react';
-import {Icon} from 'antd';
 //const nunoLogo = require('./img/nuno.png');
 
 function App() {
@@ -19,7 +18,7 @@ function App() {
       </div>
       <div className="caption text-center">
         <h1>upiko</h1>
-        <h3>great web products, without the evil</h3>
+        <h3>products for the new web, open and decentralized</h3>
         <a className="btn btn-outline-light btn-lg" href="#overview">Learn More</a>
       </div>
       <div id="overview" className="offset">
